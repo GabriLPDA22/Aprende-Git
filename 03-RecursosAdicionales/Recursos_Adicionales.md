@@ -4,32 +4,32 @@ Amplía tu conocimiento y habilidades en Git con esta selección de recursos adi
 
 ## Libros y Guías 📚
 
-- **[Pro Git Book](https://git-scm.com/book/en/v2)**: Una guía completa sobre Git. *Ilustración sugerida: Un libro abierto con el logo de Git.*
-- **[Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)**: Una referencia rápida para los comandos más comunes. *Ilustración sugerida: Una hoja de trucos.*
+- **[Pro Git Book](https://git-scm.com/book/en/v2)**: Una guía completa sobre Git. 
+- **[Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)**: Una referencia rápida para los comandos más comunes. 
 
 ## Aprendizaje Interactivo 🖥️
 
-- **[GitHub Learning Lab](https://lab.github.com/)**: Aprende Git y GitHub a través de ejercicios prácticos. *Ilustración sugerida: Un laboratorio o un espacio de experimentación.*
-- **[Visualizing Git Concepts with D3](https://onlywei.github.io/explain-git-with-d3/)**: Conceptos de Git explicados con visualizaciones interactivas. *Ilustración sugerida: Diagramas interactivos.*
+- **[GitHub Learning Lab](https://lab.github.com/)**: Aprende Git y GitHub a través de ejercicios prácticos.
+- **[Visualizing Git Concepts with D3](https://onlywei.github.io/explain-git-with-d3/)**: Conceptos de Git explicados con visualizaciones interactivas.
 
 ## Tutoriales y Cursos 🎓
 
-- **[Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)**: Tutoriales que cubren diversos aspectos de Git. *Ilustración sugerida: Un camino o escalera hacia el conocimiento.*
+- **[Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)**: Tutoriales que cubren diversos aspectos de Git.
 - **Cursos en línea**: Plataformas como Coursera y Udemy ofrecen cursos detallados sobre Git y GitHub, algunos de ellos gratuitos.
 
 ## Herramientas y Consejos 🛠️
 
-- **[Git Interactive Rebase Tool](https://thoughtbot.com/blog/git-interactive-rebase-squash-amend-rewriting-history)**: Herramienta para facilitar el rebase interactivo. *Ilustración sugerida: Herramientas de edición.*
-- **[Git Tips](https://github.com/git-tips/tips)**: Una colección de consejos prácticos para mejorar tu flujo de trabajo en Git. *Ilustración sugerida: Bombillas o ideas.*
+- **[Git Interactive Rebase Tool](https://thoughtbot.com/blog/git-interactive-rebase-squash-amend-rewriting-history)**: Herramienta para facilitar el rebase interactivo.
+- **[Git Tips](https://github.com/git-tips/tips)**: Una colección de consejos prácticos para mejorar tu flujo de trabajo en Git.
 
 ## Comunidades y Foros 🌐
 
 - **[Stack Overflow](https://stackoverflow.com/questions/tagged/git)**: Un lugar para resolver dudas y problemas específicos.
-- **[Reddit - /r/git](https://www.reddit.com/r/git/)**: Foro para discusiones, recursos y ayuda sobre Git. *Ilustración sugerida: Una comunidad global.*
+- **[Reddit - /r/git](https://www.reddit.com/r/git/)**: Foro para discusiones, recursos y ayuda sobre Git. 
 
 ## Videos Educativos 🎥
 
-- **YouTube**: Encuentra miles de tutoriales gratuitos, desde conceptos básicos hasta técnicas avanzadas. *Ilustración sugerida: Un clapperboard con el logo de Git.*
+- **YouTube**: Encuentra miles de tutoriales gratuitos, desde conceptos básicos hasta técnicas avanzadas. 
 
 ---
 
