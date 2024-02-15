@@ -35,11 +35,11 @@ Para comenzar con Git, debes configurar tu entorno. Esto implica instalar Git y 
 ## Crear tu Primer Repositorio: Puedes comenzar un nuevo proyecto con Git usando el comando:
 
    ```bash
-   git init
+   git init 
    ```
 
-
 Esto inicializará un nuevo repositorio Git en tu directorio actual.
+
 Con estos pasos, estarás listo para comenzar a trabajar en tus proyectos con Git.
 
-## Practicar es clave en el aprendizaje, así que después de leer este capítulo, asegúrate de probar lo que has aprendido con ejercicios prácticos. Puedes crear un repositorio de prueba para experimentar con los comandos de Git y ver cómo afectan a tu proyecto.
+Practicar es clave en el aprendizaje, así que después de leer este capítulo, asegúrate de probar lo que has aprendido con ejercicios prácticos. Puedes crear un repositorio de prueba para experimentar con los comandos de Git y ver cómo afectan a tu proyecto.
