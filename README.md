@@ -1,30 +1,46 @@
-# Aprende Git: Guía Completa para Principiantes 🚀
+# Hello Git & GitHub 🚀
 
-Bienvenido/a al repositorio "Aprende Git", tu recurso definitivo para comenzar tu viaje en el mundo de Git, el sistema de control de versiones indispensable para cualquier desarrollador de software. Este repositorio está cuidadosamente diseñado para ofrecerte una introducción comprensiva a Git, facilitando tu transición desde principiante absoluto hasta un usuario competente.
 
-## ¿Qué encontrarás aquí?
 
-### Tutoriales Interactivos
-Disfruta de una serie de tutoriales que abarcan desde los fundamentos hasta conceptos más avanzados, todos presentados de manera clara y concisa.
+---
 
-### Ejemplos Prácticos
-Refuerza tu aprendizaje con ejemplos de código y ejercicios prácticos diseñados para aplicar lo aprendido en escenarios reales.
 
-### Recursos Adicionales
-Encuentra enlaces a documentación oficial, herramientas adicionales y lecturas recomendadas para profundizar tu comprensión de Git.
+
+Si consideras útil el curso, apóyalo haciendo "Star" en el repositorio. ¡Gracias!
+
+## Lo que aprenderás
+
+- Git desde su historia y fundamentos
+- Conceptos principales y flujo de trabajo
+- Manejo de terminal
+- Instalación y configuración
+- Más de 25 comandos de Git
+- GitHub desde cero
+- Configuración y autenticación
+- Integración de Git con GitHub
+- Flujo colaborativo
+- Herramientas destacadas
 
 ## Ideal para Principiantes y Más
 
-Este repositorio es ideal para estudiantes de desarrollo, nuevos ingenieros de software, y cualquiera que esté interesado en empezar a utilizar Git de manera efectiva. No necesitas tener experiencia previa con Git para aprovechar estos recursos; hemos preparado este material pensando en facilitar el aprendizaje desde cero.
+Este repositorio es perfecto para estudiantes de desarrollo, nuevos ingenieros de software y cualquier persona interesada en aprender Git y GitHub desde el principio. No se requiere experiencia previa; hemos diseñado este curso para que aprendas desde cero.
 
 ## Cómo Empezar
 
-1. **Explora el Contenido**: Navega por el repositorio para familiarizarte con los materiales disponibles.
-2. **Sigue los Tutoriales**: Comienza con los tutoriales básicos y avanza a tu propio ritmo hacia los temas más complejos.
-3. **Practica**: La práctica es esencial para el aprendizaje. Asegúrate de realizar los ejercicios propuestos para solidificar tus conocimientos.
+1. **Explora el Contenido**: Familiarízate con los materiales disponibles en el repositorio.
+2. **Sigue los Tutoriales**: Comienza con los conceptos básicos y progresa hacia temas más complejos a tu propio ritmo.
+3. **Practica**: Realiza los ejercicios propuestos para reforzar lo aprendido.
 
 ## Contribuciones
 
-Si bien este proyecto es principalmente un recurso individual de aprendizaje, tus comentarios y sugerencias son siempre bienvenidos. Si tienes ideas sobre cómo mejorar este repositorio o recursos adicionales que podrían ser útiles para otros aprendices, no dudes en abrir un issue o realizar un pull request.
+Tus comentarios y sugerencias son bienvenidos para mejorar este recurso de aprendizaje. Si tienes mejoras o recursos adicionales que proponer, no dudes en abrir un issue o realizar un pull request.
 
-Sumérgete en el aprendizaje de Git y comienza a mejorar tus habilidades de control de versiones hoy mismo. ¡Feliz codificación! 🌟
+¡Comienza tu viaje en el mundo de Git & GitHub y mejora tus habilidades de control de versiones hoy mismo!
+
+---
+
+### Tutoriales Interactivos | Ejemplos Prácticos | Recursos Adicionales
+
+---
+
+
