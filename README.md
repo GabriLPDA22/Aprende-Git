@@ -5,7 +5,7 @@
 
 ---
 
-![Banner](./Media/GitxGithub.png)
+![Banner](./Media/GIt_x_Github.png)
 
 
 Si lo consideras útil, apóyalo haciendo "Star" en el repositorio. ¡Gracias!
