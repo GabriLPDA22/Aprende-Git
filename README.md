@@ -1,12 +1,14 @@
 # Hello Git & GitHub 🚀
 
-
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 
 ---
 
+![Banner](./Media/GitxGithub.png)
 
 
-Si consideras útil el curso, apóyalo haciendo "Star" en el repositorio. ¡Gracias!
+Si lo consideras útil, apóyalo haciendo "Star" en el repositorio. ¡Gracias!
 
 ## Lo que aprenderás
 
@@ -23,7 +25,7 @@ Si consideras útil el curso, apóyalo haciendo "Star" en el repositorio. ¡Grac
 
 ## Ideal para Principiantes y Más
 
-Este repositorio es perfecto para estudiantes de desarrollo, nuevos ingenieros de software y cualquier persona interesada en aprender Git y GitHub desde el principio. No se requiere experiencia previa; hemos diseñado este curso para que aprendas desde cero.
+Este repositorio es perfecto para estudiantes de desarrollo, nuevos ingenieros de software y cualquier persona interesada en aprender Git y GitHub desde el principio. No se requiere experiencia previa.
 
 ## Cómo Empezar
 
