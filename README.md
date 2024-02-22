@@ -12,16 +12,16 @@ Si lo consideras útil, apóyalo haciendo "Star" en el repositorio. ¡Gracias!
 
 ## Lo que aprenderás
 
-- Git desde su historia y fundamentos
-- Conceptos principales y flujo de trabajo
-- Manejo de terminal
-- Instalación y configuración
-- Más de 25 comandos de Git
-- GitHub desde cero
-- Configuración y autenticación
-- Integración de Git con GitHub
-- Flujo colaborativo
-- Herramientas destacadas
+- Orígenes e Introducción a Git
+- Principios y Metodología de Trabajo en Git
+- Uso de la Interfaz de Comandos
+- Guía de Instalación y Configuración de Git
+- Comandos Esenciales de Git
+- Introducción a GitHub
+- Configuración de Cuenta y Autenticación en GitHub
+- Conexión entre Git y GitHub
+- Colaboración y Trabajo en Equipo con Git y GitHub
+- Herramientas y Recursos Destacados en GitHub
 
 ## Ideal para Principiantes y Más
 
